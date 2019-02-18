@@ -3,4 +3,4 @@
 <br>
 <br>
 <br>
-<a class="ajaxOpenBtn" data-page="lightBox.html" href="lightBox.html"><br>
+&lt; a class="ajaxOpenBtn" data-page="lightBox.html" href="lightBox.html" &gt; <br>
